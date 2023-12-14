@@ -1,0 +1,44 @@
+Reversi Game - Player Interface and Implementations
+
+Player Interface
+Description
+The Player interface is the foundational blueprint for all player types in the Reversi game.
+It defines the essential actions that any player should be able to perform,
+such as making a move or passing a turn.
+
+Key Methods
+Move play(int q, int r): Performs a move on the Reversi board at the specified coordinates.
+void pass(): Passes the turn without making a move, used when a player cannot make a valid move.
+
+****pass is to be expanded when the controller is implemented***
+
+HumanPlayer Class
+Description
+The HumanPlayer class implements the Player interface, providing the functionality for a human
+player to interact with the Reversi game board.
+
+Features
+Interactive Moves: Allows human players to choose moves on the Reversi
+board by specifying coordinates.
+
+Player Identity: Represents the player's identity (black or white) in the game.
+Constructor
+HumanPlayer(ReversiReadOnlyModel board, HexagonPlayer player): Initializes a human
+player with a specific game board and player identity.
+
+AIPlayer Class
+Description
+The AIPlayer class, also an implementation of the Player interface, represents an AI
+player in the game. It uses a specified strategy to determine moves based on
+the current state of the game.
+
+Features
+Strategy-Based Moves: Makes moves based on the implemented AI strategy.
+Game Board Interaction: Interacts with the Reversi game board using the read-only model.
+Player Type Handling: Manages the AI player's type (black or white).
+Constructor
+AIPlayer(ReversiReadOnlyModel board, HexagonPlayer player, ReversiStrategy strategy):
+Constructs an AI player with a specified game board, player type, and strategy.
+
+ADDITIONAL NOTE:
+*The AI player's pass action is intended to be handled externally, in the game controller.*

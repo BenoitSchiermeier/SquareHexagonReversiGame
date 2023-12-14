@@ -1,0 +1,13 @@
+TRANSCRIPT FOR CHOOSING A MOVE FOR BLACK ON THE STARTING BOARD CONFIGURATION (OF SIZE 4)
+USING AggressiveReversiStrategy:
+
+(This represents every possible move at the start of a game of size 4):
+
+
+[(q=4,r=1)
+, (q=2,r=2)
+, (q=5,r=2)
+, (q=1,r=4)
+, (q=4,r=4)
+, (q=2,r=5)
+]
