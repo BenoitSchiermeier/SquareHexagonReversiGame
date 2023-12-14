@@ -1,9 +1,3 @@
-
-
-
-![alt text](http://url/to/img.png)
-
-
 INVARIANTS:
 1. The board cannot be started with a size less than 3 and its size remains
     constant after initialization.
