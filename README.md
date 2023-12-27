@@ -9,7 +9,7 @@ AI player vs AI player on Square Grid:
 
 Human player with Hints vs human player without hints: 
 
-![Screen Recording 2023-12-26 at 9 22 14 PM (3)](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/2f9b1ef0-96ff-4dbc-85eb-06fff1b5c17c)
+![Screen Recording 2023-12-26 at 9 22 14 PM (4)](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/03a34ef5-47f8-4719-b9ce-96a88f4e9964)
 
 
 INVARIANTS:
