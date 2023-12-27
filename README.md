@@ -1,3 +1,8 @@
+
+![31AC78A0-BB40-4E54-BAF7-19625E1BF555_1_201_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/6d4045e4-f024-4bfc-8e74-dc68bc84da4f)
+
+
+
 INVARIANTS:
 1. The board cannot be started with a size less than 3 and its size remains
     constant after initialization.
