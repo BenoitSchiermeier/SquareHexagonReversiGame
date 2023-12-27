@@ -1,6 +1,5 @@
 AI player vs AI player: 
-![Screen Recording 2023-12-26 at 9 04 28 PM](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/a6eaf184-9012-485a-b4bb-bad25b1d2c19)
-
+![Screen Recording 2023-12-26 at 9 04 28 PM](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/8bc0d89d-b456-478c-aebb-fc2fcae24dec)
 
 Hexagon Reversi: 
 ![31AC78A0-BB40-4E54-BAF7-19625E1BF555_1_201_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/6d4045e4-f024-4bfc-8e74-dc68bc84da4f)
