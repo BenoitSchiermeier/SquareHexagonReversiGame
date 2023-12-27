@@ -1,11 +1,15 @@
-AI player vs AI player: 
+AI player vs AI player on Hexagonal Grid: 
+
 ![Screen Recording 2023-12-26 at 9 04 28 PM](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/8bc0d89d-b456-478c-aebb-fc2fcae24dec)
 
-Hexagon Reversi: 
-![31AC78A0-BB40-4E54-BAF7-19625E1BF555_1_201_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/6d4045e4-f024-4bfc-8e74-dc68bc84da4f)
 
-Square Reversi: 
-![36A7BD5B-C820-406C-A6BD-00714370A707_1_201_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/9b1867d8-2adf-44a0-97d5-a8c3e014a786)
+AI player vs AI player on Square Grid: 
+
+![Screen Recording 2023-12-26 at 9 13 24 PM](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/2c9c9856-6ea2-4643-816a-c771dcdb967f)
+
+Human player with Hints vs human player without hints: 
+
+![Screen Recording 2023-12-26 at 9 16 56 PM](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/586312c9-a15d-4081-8b44-8949c22c6277)
 
 
 INVARIANTS:
