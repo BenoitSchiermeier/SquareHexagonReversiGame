@@ -1,6 +1,13 @@
+AI player vs AI player: 
+![2A61EB7B-4BC2-40EE-B735-6CD32E9DFF32_1_206_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/7b742247-58bc-47b1-8ba3-0b310f713bef)
 
+
+
+Hexagon Reversi: 
 ![31AC78A0-BB40-4E54-BAF7-19625E1BF555_1_201_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/6d4045e4-f024-4bfc-8e74-dc68bc84da4f)
 
+Square Reversi: 
+![36A7BD5B-C820-406C-A6BD-00714370A707_1_201_a](https://github.com/BenoitSchiermeier/SquareHexagonReversiGame/assets/132936530/9b1867d8-2adf-44a0-97d5-a8c3e014a786)
 
 
 INVARIANTS:
